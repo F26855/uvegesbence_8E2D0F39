@@ -16,11 +16,10 @@ Ezeket fogom használni.
 
 ### A 4 függvény mit fognak csinálni
 
-1. Összeadás függvény
-2. Véletlen ház kiválasztása
-3. Egy párbajból ki nyerne (50/50 hogy kinyer egy harcot)
-4. Egy háznak a mottója, egy beírt háznak a mottója
-
+1. Összeadás függvény, katonák összeadása.
+2. Véletlen ház kiválasztása, egy random ház ki írása és róla tudnivalók.
+3. Egy párbajból ki nyerne, 50/50 hogy kettő karakter közül ki nyer.
+4. Egy bekért háznak a mottóját kiadja.
 
 Mindenféle függvényt és műveleteket fogok használni.
 
