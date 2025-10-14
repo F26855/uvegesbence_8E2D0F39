@@ -2,9 +2,10 @@
 
 ## A Game Of Thrones világa
 
-Az oldalamon befogom mutatni ezt a fikciós világot, amelyet ***George R.R. Martin*** novelláiról késziített az HBO film/sorozat készítő stúdió. Be fogom muatni a világban felépült társadalmat, amely hevesen hajaz a *történelmünkben* kialakult középkori helyzetekre.
-Ez egy fikciós világ, amiben a varázslás és a mágikus lények is helyet kapnak majd.
+Az oldalamon befogom mutatni a Game Of Thrones fikciós világot, amelyet ***George R.R. Martin*** novelláiról késziített az HBO film/sorozat készítő stúdió. Be fogom muatni a világban felépült társadalmat, amely hevesen hajaz a *történelmünkben* kialakult középkori helyzetekre.Bemutatom majd a különböző házakat és a fontosabb szereplőket ott.
 Fel fogom vázolni a viszályokat a különböző házak közt.
+Ez egy fikciós világ, amiben a varázslás és a mágikus lények is helyet kapnak majd.
+Megpróbálom majd erős spoilerek nélkül ezt mind megcsinálni.
 ## Mikkel fogom megcsinálni
 - HTML
 - CSS
