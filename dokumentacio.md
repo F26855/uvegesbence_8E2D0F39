@@ -6,10 +6,14 @@ Az oldalamon befogom mutatni a Game Of Thrones fikciós világot, amelyet ***Geo
 Fel fogom vázolni a viszályokat a különböző házak közt.
 Ez egy fikciós világ, amiben a varázslás és a mágikus lények is helyet kapnak majd.
 Megpróbálom majd erős spoilerek nélkül ezt mind megcsinálni.
+
+Az első oldalon bemutatom majd a témát képekkel.
+A második oldalon bemuatom a különböző házakat.
+A harmadik oldalon lehet majd termékeket venni vagy interaktív dolgokat csinálni.
 ## Mikkel fogom megcsinálni
-- HTML
-- CSS
-- JS
+- HTML -> Ezzel fogom megjeleníteni az oldalaimat.
+- CSS  -> Ezzel fogom dizájnólni az oldalamat pl.:Oldal hátteret vagy betű színt állítani.
+- JS   -> Ezzel fogok függvényeket bele rakni és használni vagy interaktív gombokat.
 
 Ezeket fogom használni.
 
