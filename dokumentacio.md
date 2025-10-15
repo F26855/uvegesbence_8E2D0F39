@@ -27,7 +27,7 @@ Mindenféle függvényt és műveleteket fogok használni.
 ### Porgramozás tételek közül
 1. Fogok megszámlálás tételt alaklmazni, például a házak megszámlálására(pl. Targeayan, Stark).
 
-Lehet fogok mást is. 
+Lehet fogok mást is a projektbe.
 
 
 
