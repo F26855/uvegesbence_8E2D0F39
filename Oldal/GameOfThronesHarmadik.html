@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interaktív</title>
+    <link rel="stylesheet" href="GameOfThrones.css">
+    <script src="GameOfThrones.js"></script>
+</head>
+<body>
+     <h1>Game Of Thrones</h1>
+<a href="GameOfThronesElso.html">
+  <button>Történet</button>
+</a>
+<a href="GameOfThronesMasodik.html">
+  <button>Házak</button>
+</a>
+<a href="GameOfThronesHarmadik.html">
+  <button>Interaktív dolgok</button>
+</a>
+
+
+<div id="kiiras"></div>
+
+
+<button onclick="
+    const nev1 = prompt('Add meg az első szereplő nevét:');
+    const nev2 = prompt('Add meg a második szereplő nevét:');
+    parbaj(nev1.toString(), nev2.toString());
+">Párbaj</button>
+
+
+<button onclick="osszesKatonak([30000, 19500, 20000,100000,7000])">Az összes katona az 5 király harca alatt.</button>
+<button onclick="randomHaz()">Véletlen ház</button>
+<button onclick="hazMotto(prompt('Írd be a ház nevét:'))">Ház mottója</button>
+
+</body>
+</html>
